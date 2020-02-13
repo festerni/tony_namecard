@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Platt;Faraday (Tony);;;
+FN: Faraday (Tony) Platt 
+ORG:Ongos Valley;
+TITLE:Senior Admin / Sales Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:sales@ongosvalley.com.na
+TEL;type=WORK;type=VOICE:+264 083 388 3388
+TEL;type=MOBILE;type=VOICE:+264 085 740 8552
+item1.ADR;type=WORK;type=pref:;;Cnr of Kreuzburg & Andes Street\, Eros (Behind Novel Ford);;;Windhoek;Namibia
+item1.X-ABADR:sg
+item2.URL;type=pref:www.ongosvalley.com.na
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
